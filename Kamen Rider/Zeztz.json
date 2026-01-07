@@ -1,5 +1,5 @@
 {
-  "title": "Phim Ví Dụ",
+  "title": "Kamen Rider ZEZTZ",
   "seasons": [
     {
       "season": 1,
@@ -8,23 +8,42 @@
           "episode": 1,
           "servers": [
             {
-              "name": "Server Embed 1",
+              "name": "Subber",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
-                    "embed": "https://example.com/embed/sub-vi"
+                    "embed": "https://vip.opstream90.com/share/77684c8fdb7c184134e96d5535715990"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250909/c0eq3c6v/index.m3u8"
                   }
                 ],
+                "dub": []
+              }
+            },
+            {
+              "name": "Dubber",
+              "types": {
+                "sub": [],
                 "dub": [
                   {
                     "lang": "VI",
-                    "embed": "https://example.com/embed/dub-vi"
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250909/zAKJs8RO/index.m3u8"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed15.streamc.xyz/embed.php?hash=2e943cc952a11d22e350addd8ce6ddf9"
                   }
                 ]
               }
             }
           ]
+        },
+        {
+          "episode": 2,
+          "servers": []
         }
       ]
     }
