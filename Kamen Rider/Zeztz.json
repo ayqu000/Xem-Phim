@@ -1,0 +1,47 @@
+{
+  "title": "Phim Ví Dụ",
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "episode": 1,
+          "servers": [
+            {
+              "name": "Server 1",
+              "types": {
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "url": "https://example.com/s1e1-sub-vi.mp4"
+                  },
+                  {
+                    "lang": "EN",
+                    "url": "https://example.com/s1e1-sub-en.mp4"
+                  }
+                ],
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "url": "https://example.com/s1e1-dub-vi.mp4"
+                  }
+                ]
+              }
+            },
+            {
+              "name": "Server 2",
+              "types": {
+                "sub": [
+                  {
+                    "lang": "JP",
+                    "url": "https://example.com/s1e1-sub-jp.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
