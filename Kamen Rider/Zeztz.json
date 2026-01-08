@@ -1,4 +1,5 @@
 {
+  "type": "series",
   "title": "ZEZTZ",
   "seasons": [
     {
@@ -8,42 +9,33 @@
           "episode": 1,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed15.streamc.xyz/embed.php?hash=2e943cc952a11d22e350addd8ce6ddf9"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250909/zAKJs8RO/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250909/c0eq3c6v/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/77684c8fdb7c184134e96d5535715990"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed15.streamc.xyz/embed.php?hash=2e943cc952a11d22e350addd8ce6ddf9"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250909/c0eq3c6v/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250909/zAKJs8RO/index.m3u8"
                   }
                 ]
               }
@@ -54,42 +46,33 @@
           "episode": 2,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed14.streamc.xyz/embed.php?hash=cf598667fc269fa78423b2dbdef59ada"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250915/TE3iqNRq/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250915/wI03aqCW/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/064d5929fb1f298f64353d6f3e25ffac"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed14.streamc.xyz/embed.php?hash=cf598667fc269fa78423b2dbdef59ada"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250915/wI03aqCW/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250915/TE3iqNRq/index.m3u8"
                   }
                 ]
               }
@@ -100,42 +83,33 @@
           "episode": 3,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed15.streamc.xyz/embed.php?hash=bed45ed95785ab594d4ba703af5a5342"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250922/UVIgtBv1/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250922/r2P0Q4sT/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/5e056558ced8fa424facc20b1ba2369c"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed15.streamc.xyz/embed.php?hash=bed45ed95785ab594d4ba703af5a5342"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250922/r2P0Q4sT/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250922/UVIgtBv1/index.m3u8"
                   }
                 ]
               }
@@ -146,42 +120,33 @@
           "episode": 4,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed11.streamc.xyz/embed.php?hash=4992e8b813b12750a2660816c335da8f"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250929/2jDvXouT/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250929/rBCCSPMw/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/04adc1e3a14eb5fa654770fc7fd077b1"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed11.streamc.xyz/embed.php?hash=4992e8b813b12750a2660816c335da8f"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250929/rBCCSPMw/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20250929/2jDvXouT/index.m3u8"
                   }
                 ]
               }
@@ -192,42 +157,33 @@
           "episode": 5,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed11.streamc.xyz/embed.php?hash=4b530b06b29845ee48b66a2527f1f445"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251007/fsCNFJSN/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251007/2uplUc33/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/a3dfec8b6a89762b454f0b5e660c2e78"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed11.streamc.xyz/embed.php?hash=4b530b06b29845ee48b66a2527f1f445"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251007/2uplUc33/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251007/fsCNFJSN/index.m3u8"
                   }
                 ]
               }
@@ -238,42 +194,33 @@
           "episode": 6,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed13.streamc.xyz/embed.php?hash=dfb6f138f4ab90b0c8dc040328290c3d"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251013/nGK9bhRo/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251013/wVG0KXv3/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/c9de64b0aa92114521bfc07918df7b47"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed13.streamc.xyz/embed.php?hash=dfb6f138f4ab90b0c8dc040328290c3d"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251013/wVG0KXv3/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251013/nGK9bhRo/index.m3u8"
                   }
                 ]
               }
@@ -284,42 +231,33 @@
           "episode": 7,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed11.streamc.xyz/embed.php?hash=8ddf21825a2e45777668ce9d09e0d6d2"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251020/O0nOYtFo/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251020/ab09YIQA/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/2aeb1a8f8475cef63900be5d0780e872"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed11.streamc.xyz/embed.php?hash=8ddf21825a2e45777668ce9d09e0d6d2"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251020/ab09YIQA/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251020/O0nOYtFo/index.m3u8"
                   }
                 ]
               }
@@ -330,42 +268,33 @@
           "episode": 8,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed18.streamc.xyz/embed.php?hash=e22938c8edc559087e536fddef77a1a4"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251027/1WOo1Sjf/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251027/5Bln1iPJ/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/1b62d7b3f8f7235f93ac885532dbdf14"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed18.streamc.xyz/embed.php?hash=e22938c8edc559087e536fddef77a1a4"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251027/5Bln1iPJ/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251027/1WOo1Sjf/index.m3u8"
                   }
                 ]
               }
@@ -376,42 +305,33 @@
           "episode": 9,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed11.streamc.xyz/embed.php?hash=7bf8bb51e50035692a215b654c7695ae"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251111/fA9jcA8A/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251111/BBL1zvIV/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/f06a642b52d91adfa0168b737bd60db9"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed11.streamc.xyz/embed.php?hash=7bf8bb51e50035692a215b654c7695ae"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251111/BBL1zvIV/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251111/fA9jcA8A/index.m3u8"
                   }
                 ]
               }
@@ -422,42 +342,33 @@
           "episode": 10,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed15.streamc.xyz/embed.php?hash=172350695864cf9128e7690311846b92"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251117/NjiNehEH/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251117/4MFoz5uk/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/9aa92dce525591ed890cf7869cd62900"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed15.streamc.xyz/embed.php?hash=172350695864cf9128e7690311846b92"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251117/4MFoz5uk/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251117/NjiNehEH/index.m3u8"
                   }
                 ]
               }
@@ -468,42 +379,33 @@
           "episode": 11,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed13.streamc.xyz/embed.php?hash=614c472241b016c7a71406cdfb59a722"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251202/QCbnLTtA/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251124/ZOdl0ayA/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/3820fccb250037463096208fe8a48618"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed13.streamc.xyz/embed.php?hash=614c472241b016c7a71406cdfb59a722"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251124/ZOdl0ayA/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251202/QCbnLTtA/index.m3u8"
                   }
                 ]
               }
@@ -514,42 +416,33 @@
           "episode": 12,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed12.streamc.xyz/embed.php?hash=bbb67b8e968ded73806cf1cfe8c83567"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251202/Xy8MLwmL/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251202/79E1bAmh/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/f4bd67327fd01a153081ab6cf611a0e6"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed12.streamc.xyz/embed.php?hash=bbb67b8e968ded73806cf1cfe8c83567"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251202/79E1bAmh/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251202/Xy8MLwmL/index.m3u8"
                   }
                 ]
               }
@@ -560,42 +453,33 @@
           "episode": 13,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed14.streamc.xyz/embed.php?hash=71f0cdb27d4283a5c61431e72c63829c"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251208/RLorTAKE/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251208/s43TChYi/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream17.com/share/362f8f0b92dca64b17777aea3bdc13d4"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed14.streamc.xyz/embed.php?hash=71f0cdb27d4283a5c61431e72c63829c"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251208/s43TChYi/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251208/RLorTAKE/index.m3u8"
                   }
                 ]
               }
@@ -606,42 +490,33 @@
           "episode": 14,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed15.streamc.xyz/embed.php?hash=d3171084f9226151a810df267fec136e"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251215/5cCCJqau/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251215/DgBStVvL/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/12ac72f445ced20780a7900df364608a"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed15.streamc.xyz/embed.php?hash=d3171084f9226151a810df267fec136e"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251215/DgBStVvL/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251215/5cCCJqau/index.m3u8"
                   }
                 ]
               }
@@ -652,42 +527,33 @@
           "episode": 15,
           "servers": [
             {
+              "name": "NC",
+              "types": {
+                "dub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://embed15.streamc.xyz/embed.php?hash=6970fa210abf6453b47d67f32371368b"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251222/qQGONzMH/index.m3u8"
+                  }
+                ],
+                "sub": [
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251222/lWnXDBwP/index.m3u8"
+                  }
+                ]
+              }
+            },
+            {
               "name": "OP",
               "types": {
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://vip.opstream90.com/share/c947c73def1af5e6a675c4c06f2fbd79"
-                  }
-                ],
-                "dub": []
-              }
-            },
-            {
-              "name": "NC",
-              "types": {
-                "sub": [],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://embed15.streamc.xyz/embed.php?hash=6970fa210abf6453b47d67f32371368b"
-                  }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
-                "sub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251222/lWnXDBwP/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20251222/qQGONzMH/index.m3u8"
                   }
                 ]
               }
@@ -700,28 +566,20 @@
             {
               "name": "NC",
               "types": {
-                "sub": [],
                 "dub": [
                   {
                     "lang": "VI",
                     "embed": "https://embed14.streamc.xyz/embed.php?hash=f85340c32c4e274315e563d21013e7cc"
+                  },
+                  {
+                    "lang": "VI",
+                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260106/68JluhCS/index.m3u8"
                   }
-                ]
-              }
-            },
-            {
-              "name": "KK",
-              "types": {
+                ],
                 "sub": [
                   {
                     "lang": "VI",
                     "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260106/UacNWmi3/index.m3u8"
-                  }
-                ],
-                "dub": [
-                  {
-                    "lang": "VI",
-                    "embed": "https://player.phimapi.com/player/?url=https://s6.kkphimplayer6.com/20260106/68JluhCS/index.m3u8"
                   }
                 ]
               }
